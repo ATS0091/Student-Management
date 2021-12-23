@@ -1,0 +1,244 @@
+.aob_1 {
+    color: #000;
+    display: block;
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.aob_2 {
+    float: left;
+}
+
+.aob_3 {
+    float: right;
+}
+
+.aob_6 {
+    font-weight: 600;
+    margin-bottom: 45px;
+    background: #e4e3e3;
+    padding: 14px 9px;
+}
+
+.aob_sub {
+    padding: 18px 0px;
+}
+
+.aob_5 {
+    font-size: 15px;
+    font-weight: 400;
+    padding-right: 10px;
+}
+
+.aob_submit {
+    text-align: center;
+}
+
+.aob_11 {
+    color: #000;
+    display: block;
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    float: left;
+}
+
+.aob_13 {
+    padding-bottom: 22px;
+}
+
+.fs-dropdown {
+    width: 96%;
+}
+
+.fs-label-wrap .fs-label {
+    padding: 10px 22px 10px 8px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.submits {
+    background: #ffa200;
+    border-radius: 6px;
+    border: 1px solid #ffa200;
+    padding: 10px 20px 6px 20px;
+    color: #fff;
+    margin-right: 5px;
+}
+
+.can {
+    background: #fff;
+    border-radius: 6px;
+    border: 1px solid #ffa200;
+    padding: 10px 20px 6px 20px;
+    color: #ffa200;
+}
+
+.letter {
+    min-width: 16%;
+}
+
+.aob_recived {
+    background: #fff;
+    transition: .5s;
+    border: 0;
+    position: relative;
+    width: 100%;
+}
+
+th.recive {
+    border: none;
+}
+
+th.recives {
+    border: none;
+}
+
+td.recive {
+    border: none;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: none;
+}
+
+.aob_second {
+    float: right;
+}
+
+.aob_six {
+    background: #f3f3f3;
+    padding: 5px 9px;
+    font-weight: 600;
+    color: #0e0e0e;
+}
+
+.text-muted {
+    font-weight: 700;
+    color: #d20751!important;
+}
+
+::-webkit-input-placeholder {
+    Chrome/Opera/Safari color: #b1aeae !important;
+}
+
+ ::-moz-placeholder {
+    Firefox 19+color: #b1aeae;
+}
+
+ :-ms-input-placeholder {
+    /* IE 10+ */
+    color: #b1aeae;
+}
+
+ :-moz-placeholder {
+    /* Firefox 18- */
+    color: #b1aeae;
+}
+
+.select2-container--default .select2-selection--single {
+    border: 1px solid #ced4da;
+}
+
+.req:after {
+    content: '*';
+    color: #ff0000;
+}
+
+.form-control[readonly] {
+    background-color: #DEDEDE;
+    opacity: 1;
+}
+
+.sweet-alert.showSweetAlert.visible p {
+    font-style: italic;
+    font-size: medium;
+    text-transform: initial;
+    color: red;
+    font-weight: 700;
+}
+
+.sweet-alert.showSweetAlert.visible h2 {
+    font-size: x-large;
+}
+
+.inner-addon {
+    position: relative;
+}
+
+
+/* style glyph */
+
+.inner-addon .glyphicon {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+}
+
+.loading {
+    display: block !important;
+    animation: rotate .5s linear infinite;
+}
+
+
+/* align glyph */
+
+.left-addon .glyphicon {
+    left: 0px;
+}
+
+.right-addon .glyphicon {
+    right: 0px;
+    display: none;
+}
+
+
+/* add padding */
+
+.left-addon input {
+    padding-left: 30px;
+}
+
+.right-addon input {
+    padding-right: 30px;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg)
+    }
+    40% {
+        transform: rotate(90deg)
+    }
+    60% {
+        transform: rotate(270deg)
+    }
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+
+/* MEMBER FORM */
+
+.abo_frist {
+    float: right;
+    padding-bottom: 12px;
+}
+
+.aob_id {
+    background: #f0e0c2;
+    text-align: center;
+    font-size: 30px;
+    color: #022823;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+
+/* MEMBER FORM */
